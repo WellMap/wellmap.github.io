@@ -10,3 +10,8 @@
   	margin-bottom: -5em !important;
   	margin-left: -0.5em !important;
 }
+
+#navbarSupportedContent {
+	right: -100px !important;
+	bottom: -500px !important;
+}
