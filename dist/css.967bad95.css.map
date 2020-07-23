@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/index.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"css.967bad95.css","sourceRoot":"..","sourcesContent":["#map {\n\t\tcenter:;\n        width: 80em;\n        height: 50em;\n        margin: 0 auto;\n      }"]}
