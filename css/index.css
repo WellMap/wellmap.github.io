@@ -4,3 +4,9 @@
         height: 50em;
         margin: 0 auto;
       }
+
+#brand {
+  	margin-top: -2.5em !important;
+  	margin-bottom: -5em !important;
+  	margin-left: -0.5em !important;
+}
