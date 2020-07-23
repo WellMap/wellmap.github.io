@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KAEQ,UAAW,CACX,WAAY,CACZ,aACF","file":"css.08f310c0.css","sourceRoot":"..","sourcesContent":["#map {\n\t\tcenter:;\n        width: 80em;\n        height: 50em;\n        margin: 0 auto;\n      }"]}
